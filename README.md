@@ -15,7 +15,7 @@ Task-flow is a web-based task management application that helps users efficientl
 
 - HTML5, CSS3, JavaScript,React js
 - Bootstrap for responsive UI
-- [Add frameworks/libraries used, e.g., React, Vue, etc.]
+- [Add frameworks/libraries used, e.g., React, etc.]
 - Git & GitHub for version control
 
 ## 📸 Screenshots
