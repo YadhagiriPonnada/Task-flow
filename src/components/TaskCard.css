@@ -1,0 +1,12 @@
+.task-card {
+  background-color: var(--card-bg);
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow);
+  padding: 1rem;
+  margin: 1rem;
+  transition: transform 0.2s;
+}
+
+.task-card:hover {
+  transform: translateY(-4px);
+}
